@@ -11,4 +11,8 @@
     <color name="green_ball">#E4EE9C</color>
     <color name="row1">#F4F0ED</color>
     <color name="row2">#EDEEF5</color>
+
+    <color name="women">#f4f0ed</color>
+    <color name="men">#edeef5</color>
+
 </resources>
